@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  logbook:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2022-08-15T20:29:48.171230587Z"
+    description: A Helm chart for logbook
+    digest: 6de8e16a64923fbad477ab995ae654ec75fb2621f028f9f1955d49034d2a13cd
+    name: logbook
+    type: application
+    urls:
+    - logbook-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-15T20:29:48.170289791Z"
